@@ -46,7 +46,7 @@ Before cloning the repo or doing anything, be sure to install [docker](https://w
 
 ```bash
 # Clone the repo
-git clone https://github.com/ian13456/minecraft.js.git
+git clone https://github.com/rdp-studio/minecraft.js-1.git
 
 # Download packages for server and client with:
 npm install
